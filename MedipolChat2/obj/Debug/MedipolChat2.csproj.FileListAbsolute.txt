@@ -1,0 +1,1493 @@
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\MedipolChat2.dll.config
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\MedipolChat2.dll
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\MedipolChat2.pdb
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\roslyn\csc.exe
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\roslyn\csc.exe.config
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\roslyn\csc.rsp
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\roslyn\csi.exe
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\roslyn\csi.exe.config
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\roslyn\csi.rsp
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\roslyn\System.AppContext.dll
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\roslyn\System.Console.dll
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\roslyn\vbc.exe
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\roslyn\vbc.exe.config
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\roslyn\vbc.rsp
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\Antlr3.Runtime.dll
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\Newtonsoft.Json.dll
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\System.Web.Optimization.dll
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\WebGrease.dll
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\System.Web.Optimization.xml
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\Newtonsoft.Json.xml
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\Antlr3.Runtime.pdb
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\bin\tr\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\obj\Debug\MedipolChat2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\obj\Debug\MedipolChat2.csproj.CopyComplete
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\obj\Debug\MedipolChat2.dll
+C:\Users\User\source\repos\MedipolChat2\MedipolChat2\obj\Debug\MedipolChat2.pdb
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\MedipolChat2.dll.config
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\MedipolChat2.dll
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\MedipolChat2.pdb
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\roslyn\csc.exe
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\roslyn\csc.exe.config
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\roslyn\csc.rsp
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\roslyn\csi.exe
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\roslyn\csi.exe.config
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\roslyn\csi.rsp
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\roslyn\System.AppContext.dll
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\roslyn\System.Console.dll
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\roslyn\System.IO.Compression.dll
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Claims.dll
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\roslyn\System.ValueTuple.dll
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\roslyn\vbc.exe
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\roslyn\vbc.exe.config
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\roslyn\vbc.rsp
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\roslyn\VBCSCompiler.exe
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\Antlr3.Runtime.dll
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\Newtonsoft.Json.dll
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\System.Web.Optimization.dll
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\WebGrease.dll
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\System.Web.Optimization.xml
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\Newtonsoft.Json.xml
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\Antlr3.Runtime.pdb
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\bin\tr\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\obj\Debug\MedipolChat2.csprojAssemblyReference.cache
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\obj\Debug\MedipolChat2.csproj.CopyComplete
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\obj\Debug\MedipolChat2.dll
+C:\Users\momos\OneDrive\Masaüstü\MedipolChat5\MedipolChat2\obj\Debug\MedipolChat2.pdb
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\MedipolChat2.dll.config
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\MedipolChat2.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\MedipolChat2.pdb
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\csc.exe
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\csi.exe
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\WebGrease.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\bin\tr\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\obj\Debug\MedipolChat2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\obj\Debug\MedipolChat2.csproj.CopyComplete
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\obj\Debug\MedipolChat2.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_05\MedipolChat5\MedipolChat2\obj\Debug\MedipolChat2.pdb
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\MedipolChat2.dll.config
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\MedipolChat2.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\MedipolChat2.pdb
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\csc.exe
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\csi.exe
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\System.Web.Http.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\WebGrease.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\System.Web.Http.xml
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\tr\System.Net.Http.Formatting.resources.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\tr\System.Web.Http.resources.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\tr\System.Web.Http.WebHost.resources.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\tr\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\obj\Debug\MedipolChat2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\obj\Debug\MedipolChat2.csproj.CopyComplete
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\obj\Debug\MedipolChat2.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\obj\Debug\MedipolChat2.pdb
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\Microsoft.Owin.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\Owin.dll
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\Microsoft.Owin.xml
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Desktop\hafta_05\MedipolChat5\MedipolChat2\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\MedipolChat2.dll.config
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\MedipolChat2.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\MedipolChat2.pdb
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\csc.exe
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\csi.exe
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\Microsoft.Owin.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\Owin.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\System.Web.Http.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\WebGrease.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\Microsoft.Owin.xml
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\System.Web.Http.xml
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\tr\System.Net.Http.Formatting.resources.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\tr\System.Web.Http.resources.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\tr\System.Web.Http.WebHost.resources.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\bin\tr\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\obj\Debug\MedipolChat2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\obj\Debug\MedipolChat2.csproj.CopyComplete
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\obj\Debug\MedipolChat2.dll
+C:\Users\User\Desktop\hafta_06\MedipolChat5\MedipolChat2\obj\Debug\MedipolChat2.pdb
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\MedipolChat2.dll.config
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\MedipolChat2.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\MedipolChat2.pdb
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\csc.exe
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\csi.exe
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\Microsoft.Owin.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\Owin.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\System.Web.Http.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\WebGrease.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\Microsoft.Owin.xml
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\System.Web.Http.xml
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\tr\System.Net.Http.Formatting.resources.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\tr\System.Web.Http.resources.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\tr\System.Web.Http.WebHost.resources.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\bin\tr\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\obj\Debug\MedipolChat2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\obj\Debug\MedipolChat2.csproj.CopyComplete
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\obj\Debug\MedipolChat2.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_06\MedipolChat5\MedipolChat2\obj\Debug\MedipolChat2.pdb
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\MedipolChat2.dll.config
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\MedipolChat2.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\MedipolChat2.pdb
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\csc.exe
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\csi.exe
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\Microsoft.Owin.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\Owin.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\System.Web.Http.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\WebGrease.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\Microsoft.Owin.xml
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\System.Web.Http.xml
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\tr\System.Net.Http.Formatting.resources.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\tr\System.Web.Http.resources.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\tr\System.Web.Http.WebHost.resources.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\bin\tr\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\obj\Debug\MedipolChat2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\obj\Debug\MedipolChat2.csproj.CopyComplete
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\obj\Debug\MedipolChat2.dll
+C:\Users\User\Desktop\Yönlendirilmiş Çalışma\hafta_07\MedipolChat5\MedipolChat2\obj\Debug\MedipolChat2.pdb
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\MedipolChat2.dll.config
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\MedipolChat2.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\MedipolChat2.pdb
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\csc.exe
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\csi.exe
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\Microsoft.Owin.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\Owin.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\System.Web.Http.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\WebGrease.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\Microsoft.Owin.xml
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\System.Web.Http.xml
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\tr\System.Net.Http.Formatting.resources.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\tr\System.Web.Http.resources.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\tr\System.Web.Http.WebHost.resources.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\bin\tr\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\obj\Debug\MedipolChat2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\obj\Debug\MedipolChat2.csproj.CopyComplete
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\obj\Debug\MedipolChat2.dll
+C:\Users\User\Desktop\hafta_07\MedipolChat5\MedipolChat2\obj\Debug\MedipolChat2.pdb
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\MedipolChat2.dll.config
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\MedipolChat2.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\MedipolChat2.pdb
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\roslyn\csc.exe
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\roslyn\csi.exe
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\Microsoft.Owin.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\Owin.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\System.Web.Http.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\WebGrease.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\Microsoft.Owin.xml
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\System.Web.Http.xml
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\tr\System.Net.Http.Formatting.resources.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\tr\System.Web.Http.resources.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\tr\System.Web.Http.WebHost.resources.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\bin\tr\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\obj\Debug\MedipolChat2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\obj\Debug\MedipolChat2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\obj\Debug\MedipolChat2.csproj.CopyComplete
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\obj\Debug\MedipolChat2.dll
+C:\Users\User\Desktop\hafta_08\MedipolChat5\MedipolChat2\obj\Debug\MedipolChat2.pdb
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\MedipolChat2.dll.config
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\MedipolChat2.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\MedipolChat2.pdb
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\roslyn\csc.exe
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\roslyn\csi.exe
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\Microsoft.Owin.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\Owin.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\System.Web.Http.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\WebGrease.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\Microsoft.Owin.xml
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\System.Web.Http.xml
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\tr\System.Net.Http.Formatting.resources.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\tr\System.Web.Http.resources.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\tr\System.Web.Http.WebHost.resources.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\bin\tr\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\obj\Debug\MedipolChat2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\obj\Debug\MedipolChat2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\obj\Debug\MedipolChat2.csproj.CopyComplete
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\obj\Debug\MedipolChat2.dll
+C:\Users\User\Desktop\MpRoom_hafta08\MedipolChat5\MedipolChat2\obj\Debug\MedipolChat2.pdb
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\MedipolChat2.dll.config
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\MedipolChat2.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\MedipolChat2.pdb
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\roslyn\csc.exe
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\roslyn\csc.exe.config
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\roslyn\csc.rsp
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\roslyn\csi.exe
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\roslyn\csi.exe.config
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\roslyn\csi.rsp
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\roslyn\System.AppContext.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\roslyn\System.Collections.Immutable.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\roslyn\System.Console.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\roslyn\System.IO.Compression.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\roslyn\System.IO.FileSystem.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\roslyn\System.IO.Pipes.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\roslyn\System.Security.AccessControl.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\roslyn\System.Security.Claims.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\roslyn\System.ValueTuple.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\roslyn\System.Xml.XPath.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\roslyn\vbc.exe
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\roslyn\vbc.exe.config
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\roslyn\vbc.rsp
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\roslyn\VBCSCompiler.exe
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\roslyn\VBCSCompiler.exe.config
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\Antlr3.Runtime.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\Microsoft.Owin.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\Microsoft.Owin.Security.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\Microsoft.Web.Infrastructure.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\Newtonsoft.Json.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\Owin.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\System.Net.Http.Formatting.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\System.Web.Helpers.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\System.Web.Http.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\System.Web.Http.WebHost.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\System.Web.Mvc.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\System.Web.Optimization.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\System.Web.Razor.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\System.Web.WebPages.Deployment.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\System.Web.WebPages.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\System.Web.WebPages.Razor.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\WebGrease.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\Microsoft.Owin.xml
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\Microsoft.Owin.Security.xml
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\System.Net.Http.Formatting.xml
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\System.Web.Helpers.xml
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\System.Web.Http.xml
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\System.Web.Http.WebHost.xml
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\System.Web.Mvc.xml
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\System.Web.Razor.xml
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\System.Web.WebPages.xml
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\System.Web.WebPages.Deployment.xml
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\System.Web.WebPages.Razor.xml
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\System.Web.Optimization.xml
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\Newtonsoft.Json.xml
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\Antlr3.Runtime.pdb
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\tr\System.Net.Http.Formatting.resources.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\tr\System.Web.Http.resources.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\tr\System.Web.Http.WebHost.resources.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\tr\System.Web.Optimization.resources.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\bin\tr\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\obj\Debug\MedipolChat2.csprojAssemblyReference.cache
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\obj\Debug\MedipolChat2.csproj.CopyComplete
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\obj\Debug\MedipolChat2.dll
+C:\Yönlendirilmiş Çalışma\MpRoom-master_hafta09\MedipolChat2\obj\Debug\MedipolChat2.pdb
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\MedipolChat2.dll.config
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\MedipolChat2.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\MedipolChat2.pdb
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\roslyn\csc.exe
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\roslyn\csi.exe
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\Microsoft.Owin.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\Owin.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\System.Web.Http.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\WebGrease.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\Microsoft.Owin.xml
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\System.Web.Http.xml
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\tr\System.Net.Http.Formatting.resources.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\tr\System.Web.Http.resources.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\tr\System.Web.Http.WebHost.resources.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\bin\tr\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\obj\Debug\MedipolChat2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\obj\Debug\MedipolChat2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\obj\Debug\MedipolChat2.csproj.CopyComplete
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\obj\Debug\MedipolChat2.dll
+C:\Users\User\Desktop\MedipolChat-master\MedipolChat2\obj\Debug\MedipolChat2.pdb
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\MedipolChat2.dll.config
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\MedipolChat2.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\MedipolChat2.pdb
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\roslyn\csc.exe
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\roslyn\csi.exe
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\Microsoft.Owin.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\Owin.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\System.Web.Http.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\WebGrease.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\Microsoft.Owin.xml
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\System.Web.Http.xml
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\tr\System.Net.Http.Formatting.resources.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\tr\System.Web.Http.resources.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\tr\System.Web.Http.WebHost.resources.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\bin\tr\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\obj\Debug\MedipolChat2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\hafta_11\MedipolChat2\obj\Debug\MedipolChat2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\hafta_11\MedipolChat2\obj\Debug\MedipolChat2.csproj.CopyComplete
+C:\Users\User\Desktop\hafta_11\MedipolChat2\obj\Debug\MedipolChat2.dll
+C:\Users\User\Desktop\hafta_11\MedipolChat2\obj\Debug\MedipolChat2.pdb
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\MedipolChat2.dll.config
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\MedipolChat2.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\MedipolChat2.pdb
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\roslyn\csc.exe
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\roslyn\csc.exe.config
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\roslyn\csc.rsp
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\roslyn\csi.exe
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\roslyn\csi.exe.config
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\roslyn\csi.rsp
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\roslyn\System.AppContext.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\roslyn\System.Console.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\roslyn\System.IO.Compression.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\roslyn\System.Security.Claims.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\roslyn\System.ValueTuple.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\roslyn\vbc.exe
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\roslyn\vbc.exe.config
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\roslyn\vbc.rsp
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\roslyn\VBCSCompiler.exe
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\Antlr3.Runtime.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\Microsoft.Owin.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\Microsoft.Owin.Security.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\Newtonsoft.Json.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\Owin.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\System.Net.Http.Formatting.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\System.Web.Helpers.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\System.Web.Http.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\System.Web.Http.WebHost.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\System.Web.Mvc.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\System.Web.Optimization.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\System.Web.Razor.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\System.Web.WebPages.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\System.Web.WebPages.Razor.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\WebGrease.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\Microsoft.Owin.xml
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\Microsoft.Owin.Security.xml
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\System.Net.Http.Formatting.xml
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\System.Web.Helpers.xml
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\System.Web.Http.xml
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\System.Web.Http.WebHost.xml
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\System.Web.Mvc.xml
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\System.Web.Razor.xml
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\System.Web.WebPages.xml
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\System.Web.WebPages.Razor.xml
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\System.Web.Optimization.xml
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\Newtonsoft.Json.xml
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\Antlr3.Runtime.pdb
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\tr\System.Net.Http.Formatting.resources.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\tr\System.Web.Http.resources.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\tr\System.Web.Http.WebHost.resources.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\bin\tr\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\obj\Debug\MedipolChat2.csprojAssemblyReference.cache
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\obj\Debug\MedipolChat2.csproj.CopyComplete
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\obj\Debug\MedipolChat2.dll
+C:\Users\momos\OneDrive\Masaüstü\MpRoom-master\MedipolChat2\obj\Debug\MedipolChat2.pdb
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\MedipolChat2.dll.config
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\MedipolChat2.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\MedipolChat2.pdb
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\roslyn\csc.exe
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\roslyn\csc.exe.config
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\roslyn\csc.rsp
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\roslyn\csi.exe
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\roslyn\csi.exe.config
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\roslyn\csi.rsp
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\roslyn\System.AppContext.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\roslyn\System.Console.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\roslyn\System.Security.Claims.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\roslyn\vbc.exe
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\roslyn\vbc.exe.config
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\roslyn\vbc.rsp
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\Antlr3.Runtime.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\Microsoft.Owin.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\Microsoft.Owin.Security.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\Newtonsoft.Json.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\Owin.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\System.Web.Helpers.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\System.Web.Http.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\System.Web.Mvc.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\System.Web.Optimization.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\System.Web.Razor.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\System.Web.WebPages.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\WebGrease.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\Microsoft.Owin.xml
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\Microsoft.Owin.Security.xml
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\System.Web.Helpers.xml
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\System.Web.Http.xml
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\System.Web.Mvc.xml
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\System.Web.Razor.xml
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\System.Web.WebPages.xml
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\System.Web.Optimization.xml
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\Newtonsoft.Json.xml
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\Antlr3.Runtime.pdb
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\tr\System.Net.Http.Formatting.resources.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\tr\System.Web.Http.resources.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\tr\System.Web.Http.WebHost.resources.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\bin\tr\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\obj\Debug\MedipolChat2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\hafta_12\MedipolChat2\obj\Debug\MedipolChat2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\hafta_12\MedipolChat2\obj\Debug\MedipolChat2.csproj.CopyComplete
+C:\Users\User\Desktop\hafta_12\MedipolChat2\obj\Debug\MedipolChat2.dll
+C:\Users\User\Desktop\hafta_12\MedipolChat2\obj\Debug\MedipolChat2.pdb
